@@ -23,4 +23,5 @@ Examples:
 
 `--- Reflection Below This Line ---`
 
-In Assignment Four I learned to create and work with functions that interact with pandas DataFrames, which can pull data such as column names, column data types, and unique values. I also functions that process file paths to load different file types like CSV, Excel, and JSON into DataFrames. I used Streamlit to create an interactive UI for file uploads and filtering data.
+In Assignment Four I learned to create and work with functions that interact with pandas DataFrames, which can pull data such as column names, column data types, and unique values. I also functions that process file paths to load different file types like CSV, Excel, and JSON into DataFrames. I used Streamlit to create an interactive UI for file uploads and filtering data. 
+
